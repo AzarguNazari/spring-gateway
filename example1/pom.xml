@@ -9,10 +9,11 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>spring-gateway</artifactId>
-    <version>1-SNAPSHOT</version>
-    <name>spring-gateway</name>
-    <description>Spring Gateway Sample</description>
+    <artifactId>example1</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <name>example1</name>
+    <description>Demo project for Spring Boot</description>
+
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
@@ -173,4 +174,5 @@
             </plugin>
         </plugins>
     </build>
+
 </project>
